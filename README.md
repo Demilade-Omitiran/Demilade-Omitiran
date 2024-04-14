@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills & Technologies
+**Currently proficient in:**
+- **JavaScript**
+- **NodeJS (Express, Nest)**
+- **Sequelize ORM**
+- **TypeORM**
+- **Ruby on Rails**
+- **Python**
+- **SQL (MySQL, PostgreSQL & SQL Server)**
+- **NoSQL (MongoDB)**
+- **Websockets**
+
+**Actively learning:**
+- **Golang**
+- **Kubernetes**
+
+**Tools and Services I'm familiar with:**
+- **Redis**
+- **Docker**
+- **Cloud Services (Azure, Heroku)**
+- **API Documentation (Postman, GitBook)**
+- **Unit & Integration testing**
+- **CI/CD (CircleCI, GitHub Actions)**
+- **Burp Suite**
