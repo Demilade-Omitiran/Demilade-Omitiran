@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 ### Skills & Technologies
 **Currently proficient in:**
 - **JavaScript**
-- **NodeJS (Express, Nest)**
+- **NodeJS (Express)**
 - **Sequelize ORM**
-- **TypeORM**
 - **Ruby on Rails**
 - **Python**
 - **SQL (MySQL, PostgreSQL & SQL Server)**
@@ -26,7 +25,6 @@ Here are some ideas to get you started:
 
 **Actively learning:**
 - **Golang**
-- **Kubernetes**
 
 **Tools and Services I'm familiar with:**
 - **Redis**
