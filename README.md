@@ -39,26 +39,3 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Skills & Technologies
-**Currently proficient in:**
-- **JavaScript**
-- **NodeJS (Express)**
-- **Sequelize ORM**
-- **Ruby on Rails**
-- **Python**
-- **SQL (MySQL, PostgreSQL & SQL Server)**
-- **NoSQL (MongoDB)**
-- **Websockets**
-
-**Actively learning:**
-- **Golang**
-
-**Tools and Services I'm familiar with:**
-- **Redis**
-- **Docker**
-- **Cloud Services (Azure, Heroku)**
-- **API Documentation (Postman, GitBook)**
-- **Unit & Integration testing**
-- **CI/CD (CircleCI, GitHub Actions)**
-- **Burp Suite**
